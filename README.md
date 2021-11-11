@@ -7,7 +7,7 @@ Solarbeam DEX - Token list
   ```
   gh repo clone solarbeamio/solarbeam-tokenlist
   ```
-- Create a folder under *community/* folder with token's address as name
+- Create a folder under *community/tokens/* folder with token's address as name
 - Add token's icon (.png) under the folder created in the previous step (*community/[TOKEN_ADDRESS]*)
 - Add token's info in the *community/community.tokenlist.json* file, in this format:
   ```
