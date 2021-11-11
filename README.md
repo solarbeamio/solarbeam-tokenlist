@@ -3,6 +3,10 @@ Solarbeam DEX - Token list
 
 ### Whitelisting
 
+- Fork this repo
+```gitexclude
+gh repo clone solarbeamio/solarbeam-tokenlist
+```
 Make a Pull Request to this repo including:
 - Create a folder under *community/* folder with token's address as name
 - Add token's icon (.png) under the folder created in the previous step (*community/[TOKEN_ADDRESS]*)
