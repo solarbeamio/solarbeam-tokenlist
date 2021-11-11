@@ -7,7 +7,6 @@ Solarbeam DEX - Token list
   ```
   gh repo clone solarbeamio/solarbeam-tokenlist
   ```
-Make a Pull Request to this repo including:
 - Create a folder under *community/* folder with token's address as name
 - Add token's icon (.png) under the folder created in the previous step (*community/[TOKEN_ADDRESS]*)
 - Add token's info in the *community/community.tokenlist.json* file, in this format:
@@ -20,6 +19,7 @@ Make a Pull Request to this repo including:
       "chainId": 1285
   }
   ```
+- Make a Pull Request to this repo including all of the above.
 
 <br>
 
