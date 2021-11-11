@@ -1,0 +1,70 @@
+{
+  "name": "Community List",
+  "timestamp": "2021-07-15T12:15:29.993Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/sushiswap/art/master/sushi/logo-256x256.png",
+  "keywords": ["sushiswap", "default"],
+  "tokens": [
+    {
+      "name": "KusaMOON",
+      "address": "0x480cd4fa911eeeff93cb11135c97237455617862",
+      "symbol": "KMOON",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "https://app.solarbeam.io/images/tokens/kmoon.png"
+    },
+    {
+      "name": "MoonBeans",
+      "address": "0xC2392DD3e3fED2c8Ed9f7f0bDf6026fcd1348453",
+      "symbol": "BEANS",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "https://app.solarbeam.io/images/tokens/beans.png"
+    },
+    {
+      "name": "Laika Protocol",
+      "address": "0x65e66a61D0a8F1e686C2D6083ad611a10D84D97A",
+      "symbol": "LAIKA",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "https://app.solarbeam.io/images/tokens/laika.png"
+    },
+    {
+      "name": "MoonKafe",
+      "address": "0x52f04C806EB82930F40D410259b7AF8E18d3BDc9",
+      "symbol": "KAFE",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "https://app.solarbeam.io/images/tokens/kafe.png"
+    },
+    {
+      "name": "1SWAP",
+      "address": "0x3516a7588C2E6FFA66C9507eF51853eb85d76e5B",
+      "symbol": "1SWAP",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "https://app.solarbeam.io/images/tokens/1swap.png"
+    },
+    {
+      "name": "Neku Finance",
+      "address": "0x3Bf0880fd26E49c46d1A1e69ADb268889B4be840",
+      "symbol": "NEKU",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "https://app.solarbeam.io/images/tokens/neku.png"
+    },
+    {
+      "name": "RivrDoge",
+      "address": "0x5D4360f1Be94bD6f182F09cFE5EF9832e65EB1ac",
+      "symbol": "RivrDoge",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "https://app.solarbeam.io/images/tokens/rivrdoge.png"
+    }
+  ]
+}

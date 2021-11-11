@@ -1,0 +1,174 @@
+{
+  "name": "Official List",
+  "timestamp": "2021-07-15T12:15:29.993Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/sushiswap/art/master/sushi/logo-256x256.png",
+  "keywords": ["sushiswap", "default"],
+  "tokens": [
+    {
+      "name": "Solarbeam Token",
+      "address": "0x6bD193Ee6D2104F14F94E2cA6efefae561A4334B",
+      "symbol": "SOLAR",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "https://app.solarbeam.io/solar.png"
+    },
+    {
+      "name": "Wrapped MOVR",
+      "address": "0x98878B06940aE243284CA214f92Bb71a2b032B8A",
+      "symbol": "WMOVR",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "https://app.solarbeam.io/images/tokens/movr.png"
+    },
+    {
+      "name": "RiverBoat",
+      "address": "0xbD90A6125a84E5C512129D622a75CDDE176aDE5E",
+      "symbol": "RIB",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "https://app.solarbeam.io/images/tokens/rib.png"
+    },
+    {
+      "name": "USDC Coin",
+      "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 1285,
+      "logoURI": "https://app.solarbeam.io/images/tokens/usdc.png"
+    },
+    {
+      "name": "Dai Stablecoin",
+      "address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "https://app.solarbeam.io/images/tokens/dai.png"
+    },
+    {
+      "name": "Binance-Peg BUSD Token",
+      "address": "0x5D9ab5522c64E1F6ef5e3627ECCc093f56167818",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "https://app.solarbeam.io/images/tokens/busd.png"
+    },
+    {
+      "name": "Ethereum",
+      "address": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "https://app.solarbeam.io/images/tokens/eth.png"
+    },
+    {
+      "name": "Binance Coin",
+      "address": "0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c",
+      "symbol": "BNB",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "https://app.solarbeam.io/images/tokens/bnb.png"
+    },
+    {
+      "name": "Wrapped BTC",
+      "address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "chainId": 1285,
+      "logoURI": "https://app.solarbeam.io/images/tokens/wbtc.png"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 1285,
+      "logoURI": "https://app.solarbeam.io/images/tokens/usdt.png"
+    },
+    {
+      "name": "Relay Token",
+      "address": "0xAd7F1844696652ddA7959a49063BfFccafafEfe7",
+      "symbol": "RELAY",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "https://app.solarbeam.io/images/tokens/relay.png"
+    },
+    {
+      "name": "Avalanche",
+      "address": "0x14a0243C333A5b238143068dC3A7323Ba4C30ECB",
+      "symbol": "AVAX",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "https://app.solarbeam.io/images/tokens/avax.png"
+    },
+    {
+      "name": "Matic",
+      "address": "0x682F81e57EAa716504090C3ECBa8595fB54561D8",
+      "symbol": "MATIC",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "https://app.solarbeam.io/images/tokens/matic.png"
+    },
+    {
+      "name": "miMatic",
+      "address": "0x7f5a79576620C046a293F54FFCdbd8f2468174F1",
+      "symbol": "MAI",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "https://app.solarbeam.io/images/tokens/mimatic.png"
+    },
+    {
+      "name": "Fantom Token",
+      "address": "0xaD12daB5959f30b9fF3c2d6709f53C335dC39908",
+      "symbol": "FTM",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "https://app.solarbeam.io/images/tokens/ftm.png"
+    },
+    {
+      "name": "Magic Internet Money",
+      "address": "0x0caE51e1032e8461f4806e26332c030E34De3aDb",
+      "symbol": "MIM",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "https://app.solarbeam.io/images/tokens/mim.png"
+    },
+    {
+      "name": "DOT@moonriver",
+      "address": "0x15B9CA9659F5dfF2b7d35a98dd0790a3CBb3D445",
+      "symbol": "DOT.m",
+      "decimals": 10,
+      "chainId": 1285,
+      "logoURI": "https://app.solarbeam.io/images/tokens/dot-m.png"
+    },
+    {
+      "name": "PolkaPet World",
+      "address": "0x1e0F2A75Be02c025Bd84177765F89200c04337Da",
+      "symbol": "PETS",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "https://app.solarbeam.io/images/tokens/ppw.png"
+    },
+    {
+      "name": "Million",
+      "address": "0x95bf7E307BC1ab0BA38ae10fc27084bC36FcD605",
+      "symbol": "MM",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "https://app.solarbeam.io/images/tokens/mm.png"
+    },
+    {
+      "name": "Frax",
+      "address": "0x965f84D915a9eFa2dD81b653e3AE736555d945f4",
+      "symbol": "FRAX",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "https://app.solarbeam.io/images/tokens/frax.png"
+    }
+  ]
+}
