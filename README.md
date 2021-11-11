@@ -4,7 +4,8 @@ Solarbeam DEX - Token list
 ### Whitelisting
 
 Make a Pull Request to this repo including:
-- Add token's icon (.png) under the *community/tokens* folder
+- Create a folder under *community/* folder with token's address as name
+- Add token's icon (.png) under the folder created in the previous step (*community/[TOKEN_ADDRESS]*)
 - Add token's info in the *community/community.tokenlist.json* file, in this format:
   ```
   {
@@ -12,8 +13,7 @@ Make a Pull Request to this repo including:
       "address": [token_address],
       "symbol": [token_symbol],
       "decimals": [token_decimals],
-      "chainId": 1285,
-      "logoURI": "https://solarbeam.io/images/tokens/[token_icon_filename]"
+      "chainId": 1285
   }
   ```
 
