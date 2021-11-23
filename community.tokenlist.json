@@ -16,13 +16,6 @@
     "keywords": ["solarbeam", "community"],
     "tokens": [
         {
-            "name": "KusaMOON",
-            "address": "0x480cd4fa911eeeff93cb11135c97237455617862",
-            "symbol": "KMOON",
-            "decimals": 18,
-            "chainId": 1285
-        },
-        {
             "name": "MoonBeans",
             "address": "0xC2392DD3e3fED2c8Ed9f7f0bDf6026fcd1348453",
             "symbol": "BEANS",
