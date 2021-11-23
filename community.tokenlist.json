@@ -58,6 +58,20 @@
             "symbol": "RivrDoge",
             "decimals": 18,
             "chainId": 1285
+        },
+        {
+            "name": "Million",
+            "address": "0x95bf7E307BC1ab0BA38ae10fc27084bC36FcD605",
+            "symbol": "MM",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "DOT@moonriver",
+            "address": "0x15B9CA9659F5dfF2b7d35a98dd0790a3CBb3D445",
+            "symbol": "DOT.m",
+            "decimals": 10,
+            "chainId": 1285
         }
     ]
 }

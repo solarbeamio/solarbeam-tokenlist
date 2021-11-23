@@ -123,13 +123,6 @@
             "chainId": 1285
         },
         {
-            "name": "DOT@moonriver",
-            "address": "0x15B9CA9659F5dfF2b7d35a98dd0790a3CBb3D445",
-            "symbol": "DOT.m",
-            "decimals": 10,
-            "chainId": 1285
-        },
-        {
             "name": "PolkaPet World",
             "address": "0x1e0F2A75Be02c025Bd84177765F89200c04337Da",
             "symbol": "PETS",
@@ -137,17 +130,24 @@
             "chainId": 1285
         },
         {
-            "name": "Million",
-            "address": "0x95bf7E307BC1ab0BA38ae10fc27084bC36FcD605",
-            "symbol": "MM",
+            "name": "Anyswap Frax",
+            "address": "0x965f84D915a9eFa2dD81b653e3AE736555d945f4",
+            "symbol": "anyFRAX",
             "decimals": 18,
             "chainId": 1285
         },
         {
             "name": "Frax",
-            "address": "0x965f84D915a9eFa2dD81b653e3AE736555d945f4",
+            "address": "0x1A93B23281CC1CDE4C4741353F3064709A16197d",
             "symbol": "FRAX",
             "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "Alpha Rome",
+            "address": "0x3D2D044E8C6dAd46b4F7896418d3d4DFaAD902bE",
+            "symbol": "aROME",
+            "decimals": 9,
             "chainId": 1285
         }
     ]
