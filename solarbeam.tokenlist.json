@@ -7,7 +7,10 @@
         "patch": 0
     },
     "tags": {
-        "type": "official"
+        "type": {
+            "name": "official",
+            "description": "official token list"
+        }
     },
     "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x6bD193Ee6D2104F14F94E2cA6efefae561A4334B/logo.png",
     "keywords": ["solarbeam", "default"],
