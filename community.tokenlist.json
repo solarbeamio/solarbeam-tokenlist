@@ -77,6 +77,13 @@
             "symbol": "RKITTY",
             "decimals": 18,
             "chainId": 1285
+        },
+        {
+            "name": "RivrSaitama",
+            "address": "0x343E8F5A79C324105dFC1F5644f9d8C31Cf75e5E",
+            "symbol": "RIVRSAITAMA",
+            "decimals": 18,
+            "chainId": 1285
         }
     ]
 }
