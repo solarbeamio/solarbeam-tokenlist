@@ -74,7 +74,7 @@
           {
             "name": "MoonDao",
             "address": "0x761cb807bfbf14a4f4ba980f29f43f009f6a18c0",
-            "symbol": "DMD",
+            "symbol": "MD",
             "decimals": 9,
             "chainId": 1285
         }
