@@ -84,7 +84,7 @@
             "symbol": "RIVRSAITAMA",
             "decimals": 18,
             "chainId": 1285
-        }    
+        },
         {
             "name": "MoonDao",
             "address": "0x761cb807bFbF14A4f4bA980f29F43F009F6a18c0",
