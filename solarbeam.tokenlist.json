@@ -168,6 +168,13 @@
             "symbol": "ROME",
             "decimals": 9,
             "chainId": 1285
+        },
+        {
+            "name": "Diverse Capital",
+            "address": "0xeE0FddB3201f6F167f9108A86f882331f31B33A9",
+            "symbol": "DCC",
+            "decimals": 9,
+            "chainId": 1285
         }
     ]
 }
