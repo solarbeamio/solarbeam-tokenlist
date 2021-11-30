@@ -161,6 +161,13 @@
             "symbol": "IMX.m",
             "decimals": 18,
             "chainId": 1285
+        },
+        {
+            "name": "Rome",
+            "address": "0x4a436073552044d5f2f49b176853ad3ad473d9d6",
+            "symbol": "ROME",
+            "decimals": 9,
+            "chainId": 1285
         }
     ]
 }
