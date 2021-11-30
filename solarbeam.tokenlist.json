@@ -107,9 +107,9 @@
             "chainId": 1285
         },
         {
-            "name": "miMatic",
+            "name": "RelayChain MAI",
             "address": "0x7f5a79576620C046a293F54FFCdbd8f2468174F1",
-            "symbol": "MAI",
+            "symbol": "relayMAI",
             "decimals": 18,
             "chainId": 1285
         },
@@ -167,6 +167,13 @@
             "address": "0x4a436073552044d5f2f49b176853ad3ad473d9d6",
             "symbol": "ROME",
             "decimals": 9,
+            "chainId": 1285
+        },
+        {
+            "name": "MAI Stablecoin",
+            "address": "0xFb2019DfD635a03cfFF624D210AEe6AF2B00fC2C",
+            "symbol": "MAI",
+            "decimals": 18,
             "chainId": 1285
         }
     ]
