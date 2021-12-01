@@ -175,6 +175,20 @@
             "symbol": "MAI",
             "decimals": 18,
             "chainId": 1285
+        },
+        {
+            "name": "Moonscape",
+            "address": "0x5c22ba65F65ADfFADFc0947382f2E7C286A0Fe45",
+            "symbol": "MSCP",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "Crowns",
+            "address": "0x6fc9651f45B262AE6338a701D563Ab118B1eC0Ce",
+            "symbol": "CWS",
+            "decimals": 18,
+            "chainId": 1285
         }
     ]
 }
