@@ -189,6 +189,27 @@
             "symbol": "CWS",
             "decimals": 18,
             "chainId": 1285
+        },
+        {
+            "name": "Solarbeam Token",
+            "address": "0x744eB7c95eCe05B849e84c45A3574e943EeF665B",
+            "symbol": "SOLAR",
+            "decimals": 18,
+            "chainId": 1287
+        },
+        {
+            "name": "Wrapped DEV",
+            "address": "0x1436aE0dF0A8663F18c0Ec51d7e2E46591730715",
+            "symbol": "WDEV",
+            "decimals": 18,
+            "chainId": 1287
+        },
+        {
+            "name": "USDC Coin",
+            "address": "0x4b5ad0a6bC440F0Fd8a445359d6BB2d921734cdE",
+            "symbol": "USDC",
+            "decimals": 18,
+            "chainId": 1287
         }
     ]
 }
