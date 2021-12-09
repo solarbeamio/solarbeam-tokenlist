@@ -189,6 +189,41 @@
             "symbol": "CWS",
             "decimals": 18,
             "chainId": 1285
+        },
+        {
+            "name": "Alpha Wood",
+            "address": "0x8cE2BDc6e0319cea87337d027382f09B715C9601",
+            "symbol": "aWOOD",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "Alpha Stone",
+            "address": "0x77709C42d43F2e53c24b8fA623A207abDC89857c",
+            "symbol": "aSTONE",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "Alpha Iron",
+            "address": "0x9E403aA2DFEF9BA2a2b82286D13864A64D90BF36",
+            "symbol": "aIRON",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "Alpha Gold",
+            "address": "0x088Fe6e0e1CaCA1eE45E8DE96AbE79e4e139F4Ab",
+            "symbol": "aGOLD",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "Alpha Experience",
+            "address": "0x138a90f246Abb23A157DA7a1D9dB19dCf1691362",
+            "symbol": "aEXP",
+            "decimals": 18,
+            "chainId": 1285
         }
     ]
 }
