@@ -210,6 +210,13 @@
             "symbol": "USDC",
             "decimals": 18,
             "chainId": 1287
+        },
+        {
+            "name": "VUINT Coin",
+            "address": "0xFfFFfFff1FcaCBd218EDc0EbA20Fc2308C778080",
+            "symbol": "VUINT",
+            "decimals": 12,
+            "chainId": 1287
         }
     ]
 }
