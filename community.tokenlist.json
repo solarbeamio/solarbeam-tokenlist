@@ -86,13 +86,6 @@
             "chainId": 1285
         },
         {
-            "name": "MoonDao",
-            "address": "0x761cb807bFbF14A4f4bA980f29F43F009F6a18c0",
-            "symbol": "MD",
-            "decimals": 9,
-            "chainId": 1285
-        },
-        {
             "name": "Diverse Capital",
             "address": "0xeE0FddB3201f6F167f9108A86f882331f31B33A9",
             "symbol": "DCC",
