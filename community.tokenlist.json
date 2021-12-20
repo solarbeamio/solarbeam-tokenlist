@@ -91,6 +91,13 @@
             "symbol": "DCC",
             "decimals": 9,
             "chainId": 1285
+        },
+        {
+            "name": "SpiderDAO",
+            "address": "0xb2c22A9fb4FC02eb9D1d337655Ce079a04a526C7",
+            "symbol": "SPDR",
+            "decimals": 18,
+            "chainId": 1285
         }
     ]
 }
