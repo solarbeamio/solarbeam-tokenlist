@@ -16,6 +16,13 @@
     "keywords": ["solarbeam", "community"],
     "tokens": [
         {
+            "name": "Impossible Finance IDIA",
+            "address": "0x2d28AA28fA1E5e6bF121CF688309Bf3faAAe3C70",
+            "symbol": "IDIA",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
             "name": "MoonBeans",
             "address": "0xC2392DD3e3fED2c8Ed9f7f0bDf6026fcd1348453",
             "symbol": "BEANS",
