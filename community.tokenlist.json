@@ -106,5 +106,12 @@
             "decimals": 18,
             "chainId": 1285
         }
+        {
+            "name": "APEToken",
+            "address": "0x9457c50d14381e36bb4bd7d63b57f260f16a19e7",
+            "symbol": "APET",
+            "decimals": 9,
+            "chainId": 1285
+        },
     ]
 }
