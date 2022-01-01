@@ -13,10 +13,7 @@
         }
     },
     "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x6bD193Ee6D2104F14F94E2cA6efefae561A4334B/logo.png",
-    "keywords": [
-        "solarbeam",
-        "community"
-    ],
+    "keywords": ["solarbeam", "community"],
     "tokens": [
         {
             "name": "Impossible Finance IDIA",
