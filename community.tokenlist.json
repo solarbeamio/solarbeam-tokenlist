@@ -13,7 +13,10 @@
         }
     },
     "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonriver/0x6bD193Ee6D2104F14F94E2cA6efefae561A4334B/logo.png",
-    "keywords": ["solarbeam", "community"],
+    "keywords": [
+        "solarbeam",
+        "community"
+    ],
     "tokens": [
         {
             "name": "Impossible Finance IDIA",
@@ -97,6 +100,13 @@
             "address": "0xeE0FddB3201f6F167f9108A86f882331f31B33A9",
             "symbol": "DCC",
             "decimals": 9,
+            "chainId": 1285
+        },
+        {
+            "name": "Dot Finance",
+            "address": "0x30A54FbFF50f86C3a289fa70e677051a86677be4",
+            "symbol": "PINK",
+            "decimals": 18,
             "chainId": 1285
         },
         {
