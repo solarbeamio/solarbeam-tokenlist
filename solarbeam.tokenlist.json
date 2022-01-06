@@ -219,6 +219,13 @@
             "chainId": 1287
         },
         {
+            "name": "xcMockRMRK Coin",
+            "address": "0xFFffffFfd2aaD7f60626608Fa4a5d34768F7892d",
+            "symbol": "xcMockRMRK",
+            "decimals": 10,
+            "chainId": 1287
+        },
+        {
             "name": "Alpha Wood",
             "address": "0x8cE2BDc6e0319cea87337d027382f09B715C9601",
             "symbol": "aWOOD",
