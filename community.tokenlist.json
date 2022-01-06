@@ -105,6 +105,13 @@
             "symbol": "SPDR",
             "decimals": 18,
             "chainId": 1285
-        }
+        },
+        {
+            "name": "Disc Golf",
+            "address": "0x649a7705dfbd520c4867200b07f1d401a96a5fe3",
+            "symbol": "DISC",
+            "decimals": 8,
+            "chainId": 1285
+}
     ]
 }
