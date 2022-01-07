@@ -100,6 +100,13 @@
             "chainId": 1285
         },
         {
+            "name": "Dot Finance",
+            "address": "0x30A54FbFF50f86C3a289fa70e677051a86677be4",
+            "symbol": "PINK",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
             "name": "SpiderDAO",
             "address": "0xb2c22A9fb4FC02eb9D1d337655Ce079a04a526C7",
             "symbol": "SPDR",
