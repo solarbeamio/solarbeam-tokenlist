@@ -115,7 +115,7 @@
         },
         {
           "name": "Treasure Map",
-          "address": "0xf37626e2284742305858052615e94b380b23b3b7",
+          "address": "0xF37626E2284742305858052615E94B380B23B3b7",
           "symbol": "TMAP",
           "decimals": 18,
           "chainId": 1285
