@@ -105,6 +105,13 @@
             "symbol": "SPDR",
             "decimals": 18,
             "chainId": 1285
+        },
+        {
+            "name": "Cryptodate Token",
+            "address": "0xB9Ebc907e11d52CddB671B4704856D701B19Bef1",
+            "symbol": "CDT",
+            "decimals": 18,
+            "chainId": 1285
         }
     ]
 }
