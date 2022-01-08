@@ -254,16 +254,16 @@
             "chainId": 1285
         },
         {
-            "name": "Alpha Experience",
-            "address": "0x138a90f246Abb23A157DA7a1D9dB19dCf1691362",
-            "symbol": "aEXP",
+            "name": "Governance OHM",
+            "address": "0x3bF21Ce864e58731B6f28D68d5928BcBEb0Ad172",
+            "symbol": "gOHM",
             "decimals": 18,
             "chainId": 1285
         },
         {
-            "name": "Governance OHM",
-            "address": "0x3bF21Ce864e58731B6f28D68d5928BcBEb0Ad172",
-            "symbol": "gOHM",
+            "name": "Alpha Experience",
+            "address": "0x138a90f246Abb23A157DA7a1D9dB19dCf1691362",
+            "symbol": "aEXP",
             "decimals": 18,
             "chainId": 1285
         }
