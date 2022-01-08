@@ -259,6 +259,13 @@
             "symbol": "aEXP",
             "decimals": 18,
             "chainId": 1285
+        },
+        {
+            "name": "Governance OHM",
+            "address": "0x3bF21Ce864e58731B6f28D68d5928BcBEb0Ad172",
+            "symbol": "gOHM",
+            "decimals": 18,
+            "chainId": 1285,
         }
     ]
 }
