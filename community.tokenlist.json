@@ -119,6 +119,13 @@
           "symbol": "TMAP",
           "decimals": 18,
           "chainId": 1285
-        }
+        },
+        {
+            "name": "Hundred Finance",
+            "address": "0x10010078a54396F62c96dF8532dc2B4847d47ED3",
+            "symbol": "HND",
+            "decimals": 18,
+            "chainId": 1285
+          }
     ]
 }
