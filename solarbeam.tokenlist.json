@@ -308,6 +308,20 @@
             "symbol": "WGLMR",
             "decimals": 18,
             "chainId": 1284
+        },
+        {
+            "name": "Binance-Peg BUSD Token",
+            "address": "0xAcc15dC74880C9944775448304B263D191c6077F",
+            "symbol": "BUSD",
+            "decimals": 18,
+            "chainId": 1284
+        },
+        {
+            "name": "Vested SolarBeam Token",
+            "address": "0x0DB6729C03C85B0708166cA92801BcB5CAc781fC",
+            "symbol": "veSOLAR",
+            "decimals": 18,
+            "chainId": 1284
         }
     ]
 }
