@@ -311,7 +311,7 @@
         },
         {
             "name": "Binance-Peg BUSD Token",
-            "address": "0xAcc15dC74880C9944775448304B263D191c6077F",
+            "address": "0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F",
             "symbol": "BUSD",
             "decimals": 18,
             "chainId": 1284
