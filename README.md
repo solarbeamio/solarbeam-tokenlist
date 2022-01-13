@@ -16,7 +16,7 @@ Solarbeam DEX - Token list
       "address": [token_address],
       "symbol": [token_symbol],
       "decimals": [token_decimals],
-      "chainId": 1285
+      "chainId": [chain_id]
   }
   ```
 - Make a Pull Request to this repo including all of the above.
