@@ -317,21 +317,21 @@
             "chainId": 1284
         },
         {
-            "name": "Vested Solarbeam Token",
+            "name": "Vested SolarBeam Token",
             "address": "0x0DB6729C03C85B0708166cA92801BcB5CAc781fC",
             "symbol": "veSOLAR",
             "decimals": 18,
             "chainId": 1284
         },
         {
-            "name": "Vested Solarflare Token",
+            "name": "Vested Flare Token",
             "address": "0x08c98AD2d4856BEC0a0EaF18C2a06E7201613F90",
             "symbol": "veFLARE",
             "decimals": 18,
             "chainId": 1284
         },
         {
-            "name": "Solarflare Token",
+            "name": "Flare Token",
             "address": "0xE3e43888fa7803cDC7BEA478aB327cF1A0dc11a7",
             "symbol": "FLARE",
             "decimals": 18,
