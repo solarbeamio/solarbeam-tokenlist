@@ -336,6 +336,13 @@
             "symbol": "FLARE",
             "decimals": 18,
             "chainId": 1284
+        },
+        {
+            "name": "Moonriver",
+            "address": "0x1d4C2a246311bB9f827F4C768e277FF5787B7D7E",
+            "symbol": "MOVR",
+            "decimals": 18,
+            "chainId": 1284
         }
     ]
 }
