@@ -275,6 +275,20 @@
             "chainId": 1285
         },
         {
+            "name": "Alpha Experience",
+            "address": "0x138a90f246Abb23A157DA7a1D9dB19dCf1691362",
+            "symbol": "aEXP",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
+            "name": "xcRMRK",
+            "address": "0xffffffFF893264794d9d57E1E0E21E0042aF5A0A",
+            "symbol": "xcRMRK",
+            "decimals": 10,
+            "chainId": 1285
+        },
+        {
             "name": "Wrapped Ether",
             "address": "0x30D2a9F5FDf90ACe8c17952cbb4eE48a55D916A7",
             "symbol": "WETH",
