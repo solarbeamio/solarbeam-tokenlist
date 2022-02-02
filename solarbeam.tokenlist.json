@@ -248,7 +248,7 @@
         },
         {
             "name": "FRAX",
-            "address": "0x1734454a8C0bffc3e51bb3d1A22F402e5Cd5d787 ",
+            "address": "0x1734454a8C0bffc3e51bb3d1A22F402e5Cd5d787",
             "symbol": "FRAX",
             "decimals": 18,
             "chainId": 1287
