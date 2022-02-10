@@ -469,6 +469,16 @@
             "extensions": {
                 "provider": "Multichain"
             }
+        },
+        {
+            "name": "Axelar Wrapped LUNA",
+            "address": "0x31DAB3430f3081dfF3Ccd80F17AD98583437B213",
+            "symbol": "LUNA",
+            "decimals": 6,
+            "chainId": 1284,
+            "extensions": {
+                "provider": "Axelar"
+            }
         }
     ]
 }
