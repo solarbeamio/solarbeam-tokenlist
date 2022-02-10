@@ -469,13 +469,6 @@
             "extensions": {
                 "provider": "Multichain"
             }
-        },
-        {
-            "name": "Solarflare Stable AMM - USD Pool",
-            "address": "0x0eDaeD5746Ac96641Aa39eF1FAD5AeD71668e7CA",
-            "symbol": "3pool",
-            "decimals": 18,
-            "chainId": 1284
         }
     ]
 }
