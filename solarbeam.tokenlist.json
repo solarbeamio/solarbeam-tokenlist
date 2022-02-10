@@ -369,7 +369,7 @@
         {
             "name": "Binance-Peg BUSD Token",
             "address": "0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F",
-            "symbol": "BUSD",
+            "symbol": "any.BUSD",
             "decimals": 18,
             "chainId": 1284,
             "extensions": {
@@ -438,6 +438,36 @@
             "chainId": 1284,
             "extensions": {
                 "provider": "Meter.io"
+            }
+        },
+        {
+            "name": "Axelar Wrapped UST",
+            "address": "0x085416975fe14C2A731a97eC38B9bF8135231F62",
+            "symbol": "UST",
+            "decimals": 6,
+            "chainId": 1284,
+            "extensions": {
+                "provider": "Axelar"
+            }
+        },
+        {
+            "name": "USD Coin",
+            "address": "0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b",
+            "symbol": "any.USDC",
+            "decimals": 6,
+            "chainId": 1284,
+            "extensions": {
+                "provider": "Multichain"
+            }
+        },
+        {
+            "name": "Tether USD",
+            "address": "0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73",
+            "symbol": "any.USDT",
+            "decimals": 6,
+            "chainId": 1284,
+            "extensions": {
+                "provider": "Multichain"
             }
         }
     ]
