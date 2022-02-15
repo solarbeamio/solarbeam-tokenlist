@@ -1,5 +1,6 @@
-# solarbeam-tokenlist
-Solarbeam DEX - Token list
+# Solarbeam Foundation - Token List
+
+Solarbeam/Solarflare DEX - Token list
 
 ### Whitelisting
 
