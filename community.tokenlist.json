@@ -126,6 +126,13 @@
             "symbol": "HND",
             "decimals": 18,
             "chainId": 1285
-          }
+        },
+        {
+            "name": "Polkamarkets",
+            "address": "0x8b29344f368b5fa35595325903fe0eaab70c8e1f",
+            "symbol": "POLK",
+            "decimals": 18,
+            "chainId": 1284
+        }
     ]
 }
