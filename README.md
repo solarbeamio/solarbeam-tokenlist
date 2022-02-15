@@ -7,6 +7,7 @@ Solarbeam DEX - Token list
   ```
   gh repo clone solarbeamio/solarbeam-tokenlist
   ```
+
 - Create a folder under *assets/{blockchainName}/{tokenAddress}*
 - Add token's icon (logo.png) under the folder created in the previous step
 - Add token's info in the *community.tokenlist.json* file, in this format:
@@ -20,6 +21,7 @@ Solarbeam DEX - Token list
   }
   ```
 - Make a Pull Request to this repo including all of the above.
+- The token address must be checksum formatted (the one that includes uppercase letters) for the folder name and for the .json file.
 
 <br>
 
