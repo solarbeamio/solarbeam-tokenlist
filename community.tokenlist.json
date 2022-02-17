@@ -129,7 +129,7 @@
         },
         {
             "name": "Polkamarkets",
-            "address": "0x8b29344f368b5fa35595325903fe0eaab70c8e1f",
+            "address": "0x8b29344f368b5FA35595325903fE0eAab70C8E1F",
             "symbol": "POLK",
             "decimals": 18,
             "chainId": 1284
