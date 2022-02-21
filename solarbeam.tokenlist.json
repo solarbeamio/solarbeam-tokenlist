@@ -479,6 +479,13 @@
             "extensions": {
                 "provider": "Axelar"
             }
+        },
+        {
+            "name": "MFAM",
+            "address": "0xBb8d88bcD9749636BC4D2bE22aaC4Bb3B01A58F1",
+            "symbol": "MFAM",
+            "decimals": 18,
+            "chainId": 1285
         }
     ]
 }
