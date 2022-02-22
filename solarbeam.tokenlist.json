@@ -486,6 +486,20 @@
             "symbol": "MFAM",
             "decimals": 18,
             "chainId": 1285
+        },
+        {
+            "name": "Liquid staked KSM",
+            "address": "0xFfc7780C34B450d917d557E728f033033CB4fA8C",
+            "symbol": "stKSM",
+            "decimals": 12,
+            "chainId": 1285
+        },
+        {
+            "name": "Lido DAO Token",
+            "address": "0x6Ccf12B480A99C54b23647c995f4525D544A7E72",
+            "symbol": "LDO",
+            "decimals": 18,
+            "chainId": 1285
         }
     ]
 }
