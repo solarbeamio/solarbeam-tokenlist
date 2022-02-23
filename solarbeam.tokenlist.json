@@ -369,7 +369,7 @@
         {
             "name": "Binance-Peg BUSD Token",
             "address": "0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F",
-            "symbol": "any.BUSD",
+            "symbol": "multiBUSD",
             "decimals": 18,
             "chainId": 1284,
             "extensions": {
@@ -453,7 +453,7 @@
         {
             "name": "USD Coin",
             "address": "0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b",
-            "symbol": "any.USDC",
+            "symbol": "multiUSDC",
             "decimals": 6,
             "chainId": 1284,
             "extensions": {
@@ -463,7 +463,7 @@
         {
             "name": "Tether USD",
             "address": "0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73",
-            "symbol": "any.USDT",
+            "symbol": "multiUSDT",
             "decimals": 6,
             "chainId": 1284,
             "extensions": {
