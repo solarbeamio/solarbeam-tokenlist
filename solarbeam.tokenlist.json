@@ -500,6 +500,13 @@
             "symbol": "LDO",
             "decimals": 18,
             "chainId": 1285
+        },
+        {
+            "name": "MARA Token",
+            "address": "0x0d2faA2064129ecBfAccD45be33DEA3bCD3F8863",
+            "symbol": "MARA",
+            "decimals": 18,
+            "chainId": 1285
         }
     ]
 }
