@@ -114,11 +114,11 @@
             "chainId": 1285
         },
         {
-          "name": "Treasure Map",
-          "address": "0xF37626E2284742305858052615E94B380B23B3b7",
-          "symbol": "TMAP",
-          "decimals": 18,
-          "chainId": 1285
+            "name": "Treasure Map",
+            "address": "0xF37626E2284742305858052615E94B380B23B3b7",
+            "symbol": "TMAP",
+            "decimals": 18,
+            "chainId": 1285
         },
         {
             "name": "Hundred Finance",
@@ -133,6 +133,27 @@
             "symbol": "POLK",
             "decimals": 18,
             "chainId": 1284
+        },
+        {
+            "name": "MoonSeeds",
+            "address": "0x688F5f72C0e9bCDe98e28E49306fEf7EB39ff44F",
+            "symbol": "SEEDS",
+            "decimals": 18,
+            "chainId": 1287
+        },
+        {
+            "name": "MoonBeans",
+            "address": "0x65b09ef8c5A096C5Fd3A80f1F7369E56eB932412",
+            "symbol": "BEANS",
+            "decimals": 18,
+            "chainId": 1284
+        },
+        {
+            "name": "MoonSeeds",
+            "address": "0xD5059D18A77b3fdFA524eF3Dfc03FeF63165C908",
+            "symbol": "SEEDS",
+            "decimals": 18,
+            "chainId": 1285
         }
     ]
 }
