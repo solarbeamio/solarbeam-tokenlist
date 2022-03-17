@@ -154,6 +154,13 @@
             "symbol": "SEEDS",
             "decimals": 18,
             "chainId": 1285
+        },
+        {
+            "name": "CHAOS",
+            "address": "0xf4c6850B6e3288E81Be542909b76865a0BdF9585",
+            "symbol": "CHAOS",
+            "decimals": 18,
+            "chainId": 1285
         }
     ]
 }
