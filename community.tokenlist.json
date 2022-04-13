@@ -161,6 +161,13 @@
             "symbol": "CHAOS",
             "decimals": 18,
             "chainId": 1285
+        },
+        {
+            "name": "cUSD",
+            "address": "0xFFF7502097F2C16A11582483acf754A55af8CF04",
+            "symbol": "cUSD",
+            "decimals": 18,
+            "chainId": 1285
         }
     ]
 }
