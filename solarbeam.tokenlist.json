@@ -219,9 +219,9 @@
             "chainId": 1287
         },
         {
-            "name": "VUINT Coin",
+            "name": "xcUNIT Coin",
             "address": "0xFfFFfFff1FcaCBd218EDc0EbA20Fc2308C778080",
-            "symbol": "VUINT",
+            "symbol": "xcUNIT",
             "decimals": 12,
             "chainId": 1287
         },
