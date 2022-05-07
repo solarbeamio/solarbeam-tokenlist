@@ -221,7 +221,7 @@
         {
             "name": "XC20: xcUNIT",
             "address": "0xFfFFfFff1FcaCBd218EDc0EbA20Fc2308C778080",
-            "symbol": "XC20: xcUNIT",
+            "symbol": "xcUNIT",
             "decimals": 12,
             "chainId": 1287
         },
