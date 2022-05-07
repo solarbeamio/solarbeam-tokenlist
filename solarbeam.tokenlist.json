@@ -219,7 +219,7 @@
             "chainId": 1287
         },
         {
-            "name": "xcUNIT Coin",
+            "name": "XC20: xcUNIT",
             "address": "0xFfFFfFff1FcaCBd218EDc0EbA20Fc2308C778080",
             "symbol": "xcUNIT",
             "decimals": 12,
