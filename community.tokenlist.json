@@ -168,6 +168,13 @@
             "symbol": "cUSD",
             "decimals": 18,
             "chainId": 1285
+        },
+        {
+            "name": "Doubloons",
+            "address": "0xE413a631E8a9a10958D9b7c64157449eAe7C2064",
+            "symbol": "Doubloons",
+            "decimals": 18 ,
+            "chainId": 1285
         }
     ]
 }
