@@ -170,9 +170,9 @@
             "chainId": 1285
         },
         {
-            "name": "Doubloons",
+            "name": "DPSDoubloon",
             "address": "0xE413a631E8a9a10958D9b7c64157449eAe7C2064",
-            "symbol": "Doubloons",
+            "symbol": "DOUBLOON",
             "decimals": 18 ,
             "chainId": 1285
         }
