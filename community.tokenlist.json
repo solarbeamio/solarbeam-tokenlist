@@ -175,6 +175,14 @@
             "symbol": "DOUBLOON",
             "decimals": 18 ,
             "chainId": 1285
+        },
+        {
+            "name": "DPS Rum",
+            "address": "0xA73288bb8a196Ed8B2F2f8DD17cd765c6FD2d8C2",
+            "symbol": "RUM",
+            "decimals": 18 ,
+            "chainId": 1285
         }
+        
     ]
 }
