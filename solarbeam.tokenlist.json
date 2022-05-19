@@ -528,6 +528,41 @@
             "symbol": "xcKINT",
             "decimals": 12 ,
             "chainId": 1285
+        },
+        {
+            "name": "Moonwell ETH",
+            "address": "0xc555120Ea2df5FC2EdfaE8E34A0928A580C73028",
+            "symbol": "mETH",
+            "decimals": 8,
+            "chainId": 1287
+        },
+        {
+            "name": "USDC",
+            "address": "0x3d4e3573EBFeaCfADd62E41dA15f0EF1D04c0c10",
+            "symbol": "USDC",
+            "decimals": 18,
+            "chainId": 1287
+        },
+        {
+            "name": "USDT",
+            "address": "0xd00Fc5D0bEcED73e96F7BAe1C5743A080D102828",
+            "symbol": "USDT",
+            "decimals": 18,
+            "chainId": 1287
+        },
+        {
+            "name": "FRAX",
+            "address": "0x3937BFF63960380df7d40eaB4ae21181f58C304C",
+            "symbol": "FRAX",
+            "decimals": 18,
+            "chainId": 1287
+        },
+        {
+            "name": "BTC",
+            "address": "0xff3d51EB7dD6779EE490bC1cC5572DCCe830D44F",
+            "symbol": "BTC",
+            "decimals": 8,
+            "chainId": 1287
         }
     ]
 }
