@@ -563,6 +563,13 @@
             "symbol": "BTC",
             "decimals": 8,
             "chainId": 1287
+        },
+        {
+            "name": "Calamari Native Token",
+            "address": "0xFFffFffFA083189f870640b141ae1E882c2b5bad",
+            "symbol": "xcKMA",
+            "decimals": 12,
+            "chainId": 1285
         }
     ]
 }
