@@ -577,6 +577,13 @@
             "symbol": "wstKSM",
             "decimals":  12,
             "chainId": 1285
+        },
+        {
+            "name": "MFAM",
+            "address": "0x6efCf8fB404AC6DE593cE461877A634d067C942E",
+            "symbol": "MFAM",
+            "decimals":  18,
+            "chainId": 1287
         }
     ]
 }
