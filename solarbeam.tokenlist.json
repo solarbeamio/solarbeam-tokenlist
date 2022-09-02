@@ -600,7 +600,7 @@
             "chainId": 1285
         },
         {
-            "name": "Phala Native Token",
+            "name": "Phala Token",
             "address": "0xffFfFFff8E6b63d9e447B6d4C45BDA8AF9dc9603",
             "symbol": "xcPHA",
             "decimals": 12,
@@ -610,7 +610,7 @@
             "name": "Shiden Native Token",
             "address": "0xFFFfffFF0Ca324C842330521525E7De111F38972",
             "symbol": "xcSDN",
-            "decimals": 12,
+            "decimals": 18,
             "chainId": 1285
         }
     ]
