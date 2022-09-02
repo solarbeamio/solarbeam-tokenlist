@@ -584,6 +584,34 @@
             "symbol": "MFAM",
             "decimals":  18,
             "chainId": 1287
+        },
+        {
+            "name": "Bifrost Native Token",
+            "address": "0xFFfFFfFFF075423be54811EcB478e911F22dDe7D",
+            "symbol": "xcBNC",
+            "decimals": 12,
+            "chainId": 1285
+        },
+        {
+            "name": "Karura Native Token",
+            "address": "0xFfFFFFfF08220AD2E6e157f26eD8bD22A336A0A5",
+            "symbol": "xcKAR",
+            "decimals": 12,
+            "chainId": 1285
+        },
+        {
+            "name": "Phala Token",
+            "address": "0xffFfFFff8E6b63d9e447B6d4C45BDA8AF9dc9603",
+            "symbol": "xcPHA",
+            "decimals": 12,
+            "chainId": 1285
+        },
+        {
+            "name": "Shiden Native Token",
+            "address": "0xFFFfffFF0Ca324C842330521525E7De111F38972",
+            "symbol": "xcSDN",
+            "decimals": 18,
+            "chainId": 1285
         }
     ]
 }
