@@ -24,7 +24,7 @@ jobs:
       - uses: aquiladev/ipfs-action@v0.1.3
         id: pinata
         with:
-          path: ./build
+          path: ./solarbeam.tokenlist.json
           service: pinata
           pinataKey: ${{ secrets.PINATA_KEY }}
           pinataSecret: ${{ secrets.PINATA_SECRET }}
