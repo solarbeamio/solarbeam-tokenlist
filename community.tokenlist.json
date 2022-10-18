@@ -182,6 +182,20 @@
             "symbol": "RUM",
             "decimals": 18 ,
             "chainId": 1285
+        },
+        {
+            "name": "BEPRO Network",
+            "address": "0x4EdF8E0778967012D46968ceadb75436d0426f88",
+            "symbol": "BEPRO",
+            "decimals": 18 ,
+            "chainId": 1284
+        },
+        {
+            "name": "BEPRO Network",
+            "address": "0xCb4a593ce512D78162C58384f0b2Fd6e802c2c47",
+            "symbol": "BEPRO",
+            "decimals": 18 ,
+            "chainId": 1285
         }
         
     ]
