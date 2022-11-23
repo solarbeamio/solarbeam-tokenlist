@@ -196,6 +196,13 @@
             "symbol": "BEPRO",
             "decimals": 18 ,
             "chainId": 1285
+        },
+        {
+            "name": "Robonomics Native Token",
+            "address": "0xFffFFffF51470Dca3dbe535bD2880a9CcDBc6Bd9",
+            "symbol": "xcXRT",
+            "decimals": 9,
+            "chainId": 1285
         }
         
     ]
