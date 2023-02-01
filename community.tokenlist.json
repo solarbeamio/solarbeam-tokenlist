@@ -16,6 +16,13 @@
     "keywords": ["solarbeam", "community"],
     "tokens": [
         {
+            "name": "Qodex",
+            "address": "0x7C733AcdC87874c9B0D02e46f54Cd89173b4a460",
+            "symbol": "QODEX",
+            "decimals": 18,
+            "chainId": 1285
+        },
+        {
             "name": "Impossible Finance IDIA",
             "address": "0x2d28AA28fA1E5e6bF121CF688309Bf3faAAe3C70",
             "symbol": "IDIA",
