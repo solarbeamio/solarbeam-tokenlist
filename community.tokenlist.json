@@ -214,14 +214,14 @@
         {
             "name": "Bifrost Voucher KSM",
             "address": "0xFFffffFFC6DEec7Fc8B11A2C8ddE9a59F8c62EFe",
-            "symbol": "vKSM",
+            "symbol": "xcvKSM",
             "decimals": 12,
             "chainId": 1285
         },
         {
             "name": "Bifrost Voucher MOVR",
             "address": "0xfFfffFfF98e37bF6a393504b5aDC5B53B4D0ba11",
-            "symbol": "vMOVR",
+            "symbol": "xcvMOVR",
             "decimals": 18,
             "chainId": 1285
         }
