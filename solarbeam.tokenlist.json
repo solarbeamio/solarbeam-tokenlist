@@ -41,56 +41,80 @@
             "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
             "symbol": "USDC",
             "decimals": 6,
-            "chainId": 1285
+            "chainId": 1285,
+            "extensions": {
+                "provider": "Multichain"
+            }
         },
         {
             "name": "Dai Stablecoin",
             "address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844",
             "symbol": "DAI",
             "decimals": 18,
-            "chainId": 1285
+            "chainId": 1285,
+            "extensions": {
+                "provider": "Multichain"
+            }
         },
         {
             "name": "Binance-Peg BUSD Token",
             "address": "0x5D9ab5522c64E1F6ef5e3627ECCc093f56167818",
             "symbol": "BUSD",
             "decimals": 18,
-            "chainId": 1285
+            "chainId": 1285,
+            "extensions": {
+                "provider": "Multichain"
+            }
         },
         {
             "name": "Ethereum",
             "address": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
             "symbol": "ETH",
             "decimals": 18,
-            "chainId": 1285
+            "chainId": 1285,
+            "extensions": {
+                "provider": "Multichain"
+            }
         },
         {
             "name": "Binance Coin",
             "address": "0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c",
             "symbol": "BNB",
             "decimals": 18,
-            "chainId": 1285
+            "chainId": 1285,
+            "extensions": {
+                "provider": "Multichain"
+            }
         },
         {
             "name": "Wrapped BTC",
             "address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
             "symbol": "WBTC",
             "decimals": 8,
-            "chainId": 1285
+            "chainId": 1285,
+            "extensions": {
+                "provider": "Multichain"
+            }
         },
         {
             "name": "Tether USD",
             "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
             "symbol": "USDT",
             "decimals": 6,
-            "chainId": 1285
+            "chainId": 1285,
+            "extensions": {
+                "provider": "Multichain"
+            }
         },
         {
             "name": "Relay Token",
             "address": "0xAd7F1844696652ddA7959a49063BfFccafafEfe7",
             "symbol": "RELAY",
             "decimals": 18,
-            "chainId": 1285
+            "chainId": 1285,
+            "extensions": {
+                "provider": "Relaychain"
+            }
         },
         {
             "name": "Avalanche",
@@ -125,7 +149,10 @@
             "address": "0x0caE51e1032e8461f4806e26332c030E34De3aDb",
             "symbol": "MIM",
             "decimals": 18,
-            "chainId": 1285
+            "chainId": 1285,
+            "extensions": {
+                "provider": "Multichain"
+            }
         },
         {
             "name": "PolkaPet World",
@@ -139,7 +166,10 @@
             "address": "0x965f84D915a9eFa2dD81b653e3AE736555d945f4",
             "symbol": "anyFRAX",
             "decimals": 18,
-            "chainId": 1285
+            "chainId": 1285,
+            "extensions": {
+                "provider": "Multichain"
+            }
         },
         {
             "name": "Frax",
@@ -506,7 +536,10 @@
             "address": "0x6Ccf12B480A99C54b23647c995f4525D544A7E72",
             "symbol": "LDO",
             "decimals": 18,
-            "chainId": 1285
+            "chainId": 1285,
+            "extensions": {
+                "provider": "Multichain"
+            }
         },
         {
             "name": "MARA Token",

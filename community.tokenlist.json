@@ -76,7 +76,10 @@
             "address": "0x95bf7E307BC1ab0BA38ae10fc27084bC36FcD605",
             "symbol": "MM",
             "decimals": 18,
-            "chainId": 1285
+            "chainId": 1285,
+            "extensions": {
+                "provider": "Multichain"
+            }
         },
         {
             "name": "DOT@moonriver",
