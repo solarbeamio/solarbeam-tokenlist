@@ -227,14 +227,7 @@
             "symbol": "xcvMOVR",
             "decimals": 18,
             "chainId": 1285
-        },
-        {
-            "name": "DOT ordinals",
-            "address": "0xB1D7FD082b113A3a5a7b30a4710b59960D0d2421",
-            "symbol": "DORD",
-            "decimals": 18,
-            "chainId": 1284
         }
-
+        
     ]
 }
