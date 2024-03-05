@@ -649,7 +649,7 @@
         {
             "name": "Native DOT",
             "address": "0xFfFFfFff1FcaCBd218EDc0EbA20Fc2308C778080",
-            "symbol": "DOT",
+            "symbol": "xcDOT",
             "decimals": 10,
             "chainId": 1284
         },
@@ -666,14 +666,14 @@
         {
             "name": "Tether USD",
             "address": "0xFFFFFFfFea09FB06d082fd1275CD48b191cbCD1d",
-            "symbol": "USDt",
+            "symbol": "xcUSDt",
             "decimals": 6,
             "chainId": 1284
         },
         {
             "name": "Manta Network",
             "address": "0xfFFffFFf7D3875460d4509eb8d0362c611B4E841",
-            "symbol": "MANTA",
+            "symbol": "xcMANTA",
             "decimals": 18,
             "chainId": 1284
         },
@@ -690,7 +690,7 @@
         {
             "name": "USD Coin",
             "address": "0xFFfffffF7D2B0B761Af01Ca8e25242976ac0aD7D",
-            "symbol": "USDC",
+            "symbol": "xcUSDC",
             "decimals": 6,
             "chainId": 1284
         },
