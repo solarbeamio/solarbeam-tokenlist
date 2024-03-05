@@ -406,7 +406,7 @@
         {
             "name": "Binance-Peg BUSD Token",
             "address": "0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F",
-            "symbol": "multiBUSD",
+            "symbol": "BUSD",
             "decimals": 18,
             "chainId": 1284,
             "extensions": {
@@ -490,7 +490,7 @@
         {
             "name": "USD Coin",
             "address": "0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b",
-            "symbol": "multiUSDC",
+            "symbol": "USDC",
             "decimals": 6,
             "chainId": 1284,
             "extensions": {
@@ -500,7 +500,7 @@
         {
             "name": "Tether USD",
             "address": "0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73",
-            "symbol": "multiUSDT",
+            "symbol": "USDT",
             "decimals": 6,
             "chainId": 1284,
             "extensions": {
@@ -645,6 +645,61 @@
             "symbol": "xcSDN",
             "decimals": 18,
             "chainId": 1285
+        },
+        {
+            "name": "Native DOT",
+            "address": "0xFfFFfFff1FcaCBd218EDc0EbA20Fc2308C778080",
+            "symbol": "DOT",
+            "decimals": 10,
+            "chainId": 1284
+        },
+        {
+            "name": "USD Coin",
+            "address": "0x931715FEE2d06333043d11F658C8CE934aC61D0c",
+            "symbol": "USDC",
+            "decimals": 6,
+            "chainId": 1284,
+            "extensions": {
+                "provider": "Wormhole"
+            }
+        },
+        {
+            "name": "Tether USD",
+            "address": "0xFFFFFFfFea09FB06d082fd1275CD48b191cbCD1d",
+            "symbol": "USDt",
+            "decimals": 6,
+            "chainId": 1284
+        },
+        {
+            "name": "Manta Network",
+            "address": "0xfFFffFFf7D3875460d4509eb8d0362c611B4E841",
+            "symbol": "MANTA",
+            "decimals": 18,
+            "chainId": 1284
+        },
+        {
+            "name": "Ethereum",
+            "address": "0xab3f0245B83feB11d15AAffeFD7AD465a59817eD",
+            "symbol": "ETH",
+            "decimals": 18,
+            "chainId": 1284,
+            "extensions": {
+                "provider": "Wormhole"
+            }
+        },
+        {
+            "name": "USD Coin",
+            "address": "0xFFfffffF7D2B0B761Af01Ca8e25242976ac0aD7D",
+            "symbol": "USDC",
+            "decimals": 6,
+            "chainId": 1284
+        },
+        {
+            "name": "Liquid Staked DOT",
+            "address": "0xfa36fe1da08c89ec72ea1f0143a35bfd5daea108",
+            "symbol": "stDOT",
+            "decimals": 10,
+            "chainId": 1284
         }
     ]
 }
