@@ -149,10 +149,7 @@
             "address": "0x0caE51e1032e8461f4806e26332c030E34De3aDb",
             "symbol": "MIM",
             "decimals": 18,
-            "chainId": 1285,
-            "extensions": {
-                "provider": "Multichain"
-            }
+            "chainId": 1285
         },
         {
             "name": "PolkaPet World",
